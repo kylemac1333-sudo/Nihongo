@@ -1,0 +1,21 @@
+{
+  "name": "Nihongo Learning Main",
+  "short_name": "Nihongo",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f0d14",
+  "theme_color": "#17131f",
+  "description": "The main Nihongo Japanese learning world with lessons, Sensei, family progress and deep admin customisation.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='42' fill='%23ff4d67'/%3E%3Ctext x='96' y='122' font-size='92' text-anchor='middle' fill='white' font-family='Arial'%3>N%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='110' fill='%23ff4d67'/%3E%3Ctext x='256' y='330' font-size='250' text-anchor='middle' fill='white' font-family='Arial'%3>N%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
